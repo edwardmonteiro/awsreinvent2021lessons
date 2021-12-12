@@ -1,4 +1,4 @@
-# Top Announcements of AWS re:Invent 2021 
+# Top Announcements of AWS re:Invent 2021 (From AWS WHATSNEW!!!!)
 
 ## Analytics
 
@@ -25,3 +25,152 @@ O pilar de sustentabilidade contém questões destinadas a avaliar o design, a a
 ### WAF LENS : WELL ARQ Framework Personalizavel pelo cliente
 As lentes personalizadas fornecem uma visão consolidada e uma maneira consistente de medir e melhorar suas cargas de trabalho na AWS sem depender de planilhas externas ou sistemas de terceiros.
 
+## Inteligência Artificial / Aprendizado de Máquina
+Novo programa de bolsa de estudos da AWS ajuda alunos sub-representados e carentes a se prepararem para carreiras em IA e ML
+O programa AWS AI & ML Scholarship está sendo lançado como parte do novo serviço AWS DeepRacer Student e da Student League.
+
+### Preview Amazon SageMaker Studio Lab, um serviço gratuito para aprender e experimentar ML
+Estamos lançando um serviço gratuito que permite que qualquer pessoa aprenda e experimente ML sem precisar de uma conta AWS, cartão de crédito ou conhecimento de configuração de nuvem.
+
+### SageMaker Inference Recommendation
+Esse novo recurso do Amazon SageMaker Studio automatiza o teste de carga e otimiza o desempenho do modelo em instâncias de aprendizado de máquina (ML).
+
+### Compilador de Treinamento SageMaker
+O novo recurso compila automaticamente seu código de treinamento Python e gera kernels de GPU especificamente para seu modelo. O resultado? O código de treinamento usará menos memória e computação e treinará mais rápido.
+
+### Criar e gerenciar clusters EMR e trabalhos do Spark com Amazon SageMaker Studio
+Com a capacidade de se conectar e gerenciar clusters EMR de dentro do SageMaker Studio, os cientistas de dados não precisam mais deixar seu ambiente familiar para criar, configurar e provisionar os clusters EMR onde executam suas cargas de trabalho.
+
+### SageMaker Ground Truth Plus
+Ground Truth Plus é um serviço pronto para uso que usa uma força de trabalho especializada para fornecer conjuntos de dados de treinamento de alta qualidade rapidamente e reduz os custos em até 40 por cento.
+
+### DevOps Guru para RDS para detectar, diagnosticar e resolver problemas relacionados ao Amazon Aurora usando ML
+Agora, os desenvolvedores terão informações suficientes para determinar a causa exata de um problema de desempenho de banco de dados no Amazon Aurora, economizando muitas horas de trabalho tentando descobrir e remediar os problemas.
+
+### SageMaker Canvas - um recurso de aprendizado de máquina visual e sem código para analistas de negócios
+Agora, os analistas de negócios podem construir modelos de aprendizado de máquina e gerar previsões de negócios precisas sem escrever código ou exigir conhecimento de ML.
+
+### CodeGuru Reviewer apresenta o detector de Secrets para identificar Secrets HArdCoded  e protegê-los com o AWS Secrets Manager
+A nova ferramenta automatizada ajuda os desenvolvedores a detectar segredos no código-fonte ou arquivos de configuração, como senhas, chaves de API, chaves SSH e tokens de acesso.
+
+
+## Compute
+
+### EC2 M1 Mac para criar e testar aplicativos para iPhone, iPad, Mac, Apple Watch e Apple TV
+A disponibilidade (Preview) de instâncias EC2 M1 Mac permite acessar máquinas construídas em torno do M1 System on Chip projetado pela Apple. 
+
+### Amazon EC2 otimizadas para armazenamento (Im4gn e Is4gen) com processadores AWS Graviton2
+Apresentando as duas famílias mais novas de instâncias otimizadas para armazenamento, Im4gn e Is4gen, com processadores Graviton2. Ambas as instâncias oferecem até 30 TB de armazenamento NVMe usando dispositivos AWS Nitro SSD que são personalizados pela AWS.
+
+### AWS Outposts 
+Estamos lançando três servidores AWS Outposts, todos com o sistema AWS Nitro e com processadores x86 ou Arm / Graviton2 de sua escolha.
+
+### Instâncias Amazon EC2 C7g fornecidas por novos processadores AWS Graviton3
+Essas instâncias serão uma ótima combinação para suas cargas de trabalho de computação intensiva: HPC, processamento em lote, automação de design eletrônico (EDA), codificação de mídia, modelagem científica, veiculação de anúncios, análise distribuída e inferência de aprendizado de máquina baseada em CPU.
+
+### Instâncias Amazon EC2 M6a com processadores AMD EPYC de 3ª geração
+As instâncias do Amazon EC2 M6a apresentam os processadores AMD EPYC de 3ª geração, funcionando em frequências de até 3,6 GHz para oferecer desempenho de preço de até 35 por cento em comparação com as instâncias M5a da geração anterior.
+
+### Pull Through Cache Repositories para Amazon Elastic Container Registry
+Os repositórios de cache pull through oferecem aos desenvolvedores melhor desempenho, segurança e disponibilidade do Amazon Elastic Container Registry para imagens de contêiner que eles obtêm de registros públicos.
+
+### Amazon EC2 G5g com processadores AWS Graviton2 e GPUs NVIDIA T4G Tensor Core
+A disponibilidade geral de instâncias do Amazon EC2 G5g estende os benefícios de preço e desempenho do Graviton2 para cargas de trabalho baseadas em GPU, incluindo aplicativos gráficos e inferência de aprendizado de máquina.
+
+### Karpenter - um autoescalador de cluster de alto desempenho e código aberto do Kubernetes
+O novo projeto de código aberto ajuda a melhorar a disponibilidade do aplicativo e a eficiência do cluster, lançando rapidamente recursos de computação do tamanho certo em resposta às mudanças nas cargas do aplicativo.
+
+## Banco de Dados
+
+### DynamoDB - Economize até 60% nos custos do DynamoDB
+A classe de tabela DynamoDB Standard-IA foi projetada para clientes que desejam uma solução com custo otimizado para armazenar dados acessados ​​com pouca frequência no DynamoDB sem alterar nenhum código de aplicativo.
+
+### RDS personalizado para SQL Server 
+Este lançamento oferece suporte a aplicativos que dependem de configurações específicas e aplicativos de terceiros que exigem personalizações em sistemas corporativos, de e-commerce e de gerenciamento de conteúdo, como o Microsoft SharePoint.
+
+## Ferramentas de desenvolvimento
+
+### AWS re: Post - Uma experiência reimaginada de perguntas e respostas para a comunidade AWS
+AWS re: Post é um serviço de perguntas e respostas gerenciado pela AWS que oferece respostas coletivas e revisadas por especialistas às suas perguntas técnicas sobre a AWS, que substitui os Fóruns AWS originais.
+
+### Anunciando a disponibilidade geral do Construct Hub e AWS Cloud Development Kit versão 2 (CDK 2.0 )
+O AWS CDK é uma estrutura de código aberto que simplifica o trabalho com recursos de nuvem usando linguagens de programação familiares: C #, TypeScript, Java, Python e Go (na visualização do desenvolvedor).
+
+## Ferramentas de gerenciamento
+
+### AWS Control Tower - Negação de região e grades para ajudá-lo a atender aos requisitos de residência de dados
+Os controles preventivos e de detecção evitarão o provisionamento de recursos em regiões indesejadas da AWS, restringindo o acesso às APIs da AWS por meio de políticas de controle de serviço (SCPs) criadas e gerenciadas pela AWS Control Tower.
+
+### AWS Control Tower Account Factory para Terraform
+AFT é um novo módulo do Terraform mantido pela equipe da AWS Control Tower que permite provisionar e personalizar contas da AWS por meio do Terraform usando um pipeline de implantação.
+
+### AWS Compute Optimizer - Métricas de eficiência de recursos para estimar oportunidades de economia e riscos de desempenho
+Ao aplicar o conhecimento obtido da experiência da Amazon executando diversas cargas de trabalho na nuvem, o AWS Compute Optimizer identifica os padrões de carga de trabalho e recomenda os recursos ideais da AWS. Agora, ele também fornece métricas de eficiência de recursos junto com suas recomendações para ajudá-lo a avaliar a eficiência com que você está usando os recursos da AWS.
+
+### AWS Compute Optimizer - Métricas de infraestrutura aprimoradas para estender o período de lookback para três meses
+O AWS Compute Optimizer agora também oferece suporte a preferências de recomendação, nas quais você pode ativar ou desativar recursos que aprimoram as recomendações específicas de recursos.
+
+### Monitoramento de usuário real para Amazon CloudWatch
+O Amazon CloudWatch ajuda você a criar aplicativos da web altamente escalonáveis ​​e disponíveis. O grande desafio que estamos enfrentando hoje é monitorar esses aplicativos com o objetivo de compreender o desempenho e fornecer uma experiência ideal para seus usuários finais.
+
+### CloudWatch Evidently - Experimentos e gerenciamento de recursos
+Esse novo recurso do Amazon CloudWatch torna mais fácil para os desenvolvedores introduzir experimentos e gerenciamento de recursos em seu código de aplicativo. O CloudWatch Evidently pode ser usado para dois casos de uso semelhantes, mas distintos: implementação de dark launchs, também conhecidos como sinalizadores de recursos, e testes A / B.
+
+## Mensageria
+
+### Amazon Connect com tecnologia de aprendizado de máquina, agora com resumo de chamadas
+O Amazon Connect adiciona um novo recurso que ajuda a melhorar a experiência do cliente e a produtividade do agente e do supervisor, resumindo automaticamente os aspectos importantes de cada chamada do cliente.
+
+### Experiência aprimorada de gerenciamento de fila de espera para filas padrão do Amazon SQS
+A nova funcionalidade ajuda você a se concentrar na fase importante de seu fluxo de trabalho de tratamento de erros, que consiste em identificar e resolver erros de processamento.
+
+## Serviços de migração e transferência
+
+### AWS Migration Hub Refactor Spaces ajuda a refatorar incrementalmente seus aplicativos
+Um novo recurso do AWS Migration Hub permite refatorar os aplicativos existentes em aplicativos distribuídos, normalmente baseados em microsserviços.
+
+## Rede e distribuição de conteúdo
+
+### Conectividade site a site com AWS Direct Connect SiteLink
+Você não precisa mais se conectar por meio da região AWS mais próxima e gerenciar e configurar um AWS Transit Gateway para conectividade de rede local a local.
+
+### VPC Network Access Analyzer
+Em contraste com a verificação manual das configurações de rede, que é sujeita a erros e difícil de escalar, esta ferramenta permite que você analise suas redes AWS de qualquer tamanho e complexidade.
+
+## Robótica
+
+### IoT RoboRunner para criar aplicativos de gerenciamento de frota de robôs
+O AWS IoT RoboRunner é um novo serviço de robótica que torna mais fácil para as empresas criar e implantar aplicativos que ajudam as frotas de robôs a trabalharem perfeitamente em conjunto.
+
+## Segurança
+
+### Atualização avançada do AWS Shield - Mitigação automática de DDoS de camada de aplicativo
+O novo recurso cria, testa e implanta regras AWS WAF para mitigar eventos DDoS da camada 7 em nome dos clientes.
+
+### CodeGuru Reviewer apresenta o detector de segredos para identificar segredos codificados permanentemente e protegê-los com o AWS Secrets Manager
+O novo Amazon CodeGuru Reviewer Secrets Detector é uma ferramenta automatizada que ajuda os desenvolvedores a detectar segredos no código-fonte ou arquivos de configuração, como senhas, chaves de API, chaves SSH e tokens de acesso.
+
+### Gerenciamento de vulnerabilidade aprimorado e automatizado para cargas de trabalho em nuvem com um novo Amazon Inspector
+Amazon Inspector é um serviço usado por organizações de todos os tamanhos para automatizar a avaliação e o gerenciamento de segurança em escala. Este novo lançamento permite uma implantação sem atrito em escala, suporte para um conjunto expandido de tipos de recursos que precisam de avaliação e uma necessidade crítica de detectar e corrigir com rapidez.
+
+## Quantum Technologies
+### Braket Hybrid Jobs
+Com o novo Amazon Braket Hybrid Jobs, você pode evitar uma infraestrutura extensa e gerenciamento de software e executar seus algoritmos com segurança de forma rápida e previsível, com acesso prioritário sob demanda a QPUs.
+
+## What’s New: re:Invent Previews
+
+* AWS Cloud WAN (Preview)
+* AWS Amplify Studio (Preview)
+* Amazon Lex Automated Chatbot Designer (Preview)
+* Amazon SageMaker Serverless Inference (Preview)
+* AWS DMS Fleet Advisor for automated discovery and analysis of database and analytics workloads (Preview)
+* AWS IoT TwinMaker, a Service That Makes it Easier to Build Digital Twins (Preview)
+* AWS IoT FleetWise, a New Service for Transferring Vehicle Data to the Cloud More Efficiently (Preview)
+* Amazon EMR Serverless (Preview)
+* Amazon MSK Serverless (Preview)
+* AWS Mainframe Modernization (Preview)
+* Amazon EC2 Trn1 Instances (Preview)
+* AWS Private 5G (Preview)
+* AWS Chatbot now supports management of AWS resources in Slack (Preview)
+* AWS Migration Hub Refactor Spaces (Preview)
+* Amazon CloudWatch Metrics Insights (Preview)
