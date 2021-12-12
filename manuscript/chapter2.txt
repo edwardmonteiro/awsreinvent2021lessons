@@ -14,5 +14,14 @@ A AWS Lake Formation facilita a configuração de um data lake seguro em dias, e
 ### Data Exchange para APIs: Encontre, assine e use APIs de terceiros com autenticação consistente
 O novo recurso simplifica a vida de desenvolvedores e administradores de TI que precisam integrar e proteger o acesso a várias APIs de terceiros.
 
+## Integração de aplicativos & Arquitetura
 
+### Notificações de eventos do Amazon S3 com Amazon EventBridge
+Tornando ainda mais fácil para  usar o EventBridge para construir aplicativos que reagem de forma rápida e eficiente às mudanças em seus objetos S3.
+
+### Pilar de sustentabilidade para uma estrutura bem arquitetada da AWS
+O pilar de sustentabilidade contém questões destinadas a avaliar o design, a arquitetura e a implementação de suas cargas de trabalho para reduzir o consumo de energia e melhorar sua eficiência.
+
+### WAF LENS : WELL ARQ Framework Personalizavel pelo cliente
+As lentes personalizadas fornecem uma visão consolidada e uma maneira consistente de medir e melhorar suas cargas de trabalho na AWS sem depender de planilhas externas ou sistemas de terceiros.
 
