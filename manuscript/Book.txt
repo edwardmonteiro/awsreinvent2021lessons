@@ -1,4 +1,3 @@
 chapter1.txt
 chapter2.txt
-chapter3.docx
-chapter4.docx
+chapter3.txt
