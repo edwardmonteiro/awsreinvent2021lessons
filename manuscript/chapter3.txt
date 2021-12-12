@@ -2,35 +2,35 @@
 
 ## Analytics
 
-### Redshift Serverless - execute análises em qualquer escala sem ter que gerenciar a infraestrutura
+### Redshift Serverless - execute análises sem ter que gerenciar a infraestrutura
 Basta carregar seus dados e começar a consultar sem a necessidade de configurar e gerenciar clusters.
 
 ### Kinesis Data Streams On-Demand - Transmita dados em escala sem gerenciar a capacidade
-Esse novo modo de capacidade elimina a necessidade de provisionar e gerenciar a capacidade de streaming de dados. O uso do Kinesis Data Streams On-demand dimensiona automaticamente a capacidade em resposta ao tráfego de dados variável.
+Esse novo modo de capacidade elimina a necessidade de provisionar e gerenciar a capacidade de streaming de dados.
 
 ### Lake Formation - Disponibilidade Geral de Segurança em Nível de Célula e Tabelas Governadas com Compactação Automática
-A AWS Lake Formation facilita a configuração de um data lake seguro em dias, em vez de semanas ou meses; os recursos recém-lançados simplificam ainda mais o carregamento de dados, a otimização do armazenamento e o gerenciamento de acesso a um data lake.
+A AWS Lake Formation facilita a configuração de um data lake seguro em dias, em vez de semanas
 
 ### Data Exchange para APIs: Encontre, assine e use APIs de terceiros com autenticação consistente
-O novo recurso simplifica a vida de desenvolvedores e administradores de TI que precisam integrar e proteger o acesso a várias APIs de terceiros.
+O novo recurso simplifica a vida de desenvolvedores e administradores que precisam integrar e proteger o acesso a várias APIs de terceiros.
 
 ## Integração de aplicativos & Arquitetura
 
 ### Notificações de eventos do Amazon S3 com Amazon EventBridge
-Tornando ainda mais fácil para  usar o EventBridge para construir aplicativos que reagem de forma rápida e eficiente às mudanças em seus objetos S3.
+Tornando ainda mais fácil para  usar o EventBridge para construir aplicativos que reagem  às mudanças em seus objetos S3.
 
 ### Pilar de sustentabilidade para uma estrutura bem arquitetada da AWS
-O pilar de sustentabilidade contém questões destinadas a avaliar o design, a arquitetura e a implementação de suas cargas de trabalho para reduzir o consumo de energia e melhorar sua eficiência.
+O pilar de sustentabilidade contém questões destinadas a avaliar o design e a arquitetura  para reduzir o consumo de energia e melhorar sua eficiência.
 
 ### WAF LENS : WELL ARQ Framework Personalizavel pelo cliente
-As lentes personalizadas fornecem uma visão consolidada e uma maneira consistente de medir e melhorar suas cargas de trabalho na AWS sem depender de planilhas externas ou sistemas de terceiros.
+As lentes personalizadas fornecem uma visão consolidada e uma maneira consistente de medir e melhorar suas cargas de trabalho na AWS sem depender de sistemas de terceiros.
 
 ## Inteligência Artificial / Aprendizado de Máquina
-Novo programa de bolsa de estudos da AWS ajuda alunos sub-representados e carentes a se prepararem para carreiras em IA e ML
+Novo programa de bolsa de estudos da AWS ajuda alunos sub-representados e carentes em sua formação.
 O programa AWS AI & ML Scholarship está sendo lançado como parte do novo serviço AWS DeepRacer Student e da Student League.
 
 ### Preview Amazon SageMaker Studio Lab, um serviço gratuito para aprender e experimentar ML
-Estamos lançando um serviço gratuito que permite que qualquer pessoa aprenda e experimente ML sem precisar de uma conta AWS, cartão de crédito ou conhecimento de configuração de nuvem.
+Permite que qualquer pessoa aprenda e experimente ML sem precisar de uma conta AWS, cartão de crédito ou conhecimento de configuração de nuvem.
 
 ### SageMaker Inference Recommendation
 Esse novo recurso do Amazon SageMaker Studio automatiza o teste de carga e otimiza o desempenho do modelo em instâncias de aprendizado de máquina (ML).
@@ -41,13 +41,10 @@ O novo recurso compila automaticamente seu código de treinamento Python e gera 
 ### Criar e gerenciar clusters EMR e trabalhos do Spark com Amazon SageMaker Studio
 Com a capacidade de se conectar e gerenciar clusters EMR de dentro do SageMaker Studio, os cientistas de dados não precisam mais deixar seu ambiente familiar para criar, configurar e provisionar os clusters EMR onde executam suas cargas de trabalho.
 
-### SageMaker Ground Truth Plus
-Ground Truth Plus é um serviço pronto para uso que usa uma força de trabalho especializada para fornecer conjuntos de dados de treinamento de alta qualidade rapidamente e reduz os custos em até 40 por cento.
-
 ### DevOps Guru para RDS para detectar, diagnosticar e resolver problemas relacionados ao Amazon Aurora usando ML
-Agora, os desenvolvedores terão informações suficientes para determinar a causa exata de um problema de desempenho de banco de dados no Amazon Aurora, economizando muitas horas de trabalho tentando descobrir e remediar os problemas.
+Agora, os desenvolvedores terão informações suficientes para determinar a causa exata de um problema de desempenho de banco de dados no Amazon Aurora.
 
-### SageMaker Canvas - um recurso de aprendizado de máquina visual e sem código para analistas de negócios
+### SageMaker Canvas - um recurso de aprendizado de máquina visual e no code  para analistas de negócios
 Agora, os analistas de negócios podem construir modelos de aprendizado de máquina e gerar previsões de negócios precisas sem escrever código ou exigir conhecimento de ML.
 
 ### CodeGuru Reviewer apresenta o detector de Secrets para identificar Secrets HArdCoded  e protegê-los com o AWS Secrets Manager
@@ -63,19 +60,10 @@ A disponibilidade (Preview) de instâncias EC2 M1 Mac permite acessar máquinas 
 Apresentando as duas famílias mais novas de instâncias otimizadas para armazenamento, Im4gn e Is4gen, com processadores Graviton2. Ambas as instâncias oferecem até 30 TB de armazenamento NVMe usando dispositivos AWS Nitro SSD que são personalizados pela AWS.
 
 ### AWS Outposts 
-Estamos lançando três servidores AWS Outposts, todos com o sistema AWS Nitro e com processadores x86 ou Arm / Graviton2 de sua escolha.
-
-### Instâncias Amazon EC2 C7g fornecidas por novos processadores AWS Graviton3
-Essas instâncias serão uma ótima combinação para suas cargas de trabalho de computação intensiva: HPC, processamento em lote, automação de design eletrônico (EDA), codificação de mídia, modelagem científica, veiculação de anúncios, análise distribuída e inferência de aprendizado de máquina baseada em CPU.
-
-### Instâncias Amazon EC2 M6a com processadores AMD EPYC de 3ª geração
-As instâncias do Amazon EC2 M6a apresentam os processadores AMD EPYC de 3ª geração, funcionando em frequências de até 3,6 GHz para oferecer desempenho de preço de até 35 por cento em comparação com as instâncias M5a da geração anterior.
+ETrês servidores AWS Outposts, todos com o sistema AWS Nitro e com processadores x86 ou Arm / Graviton2 de sua escolha.
 
 ### Pull Through Cache Repositories para Amazon Elastic Container Registry
 Os repositórios de cache pull through oferecem aos desenvolvedores melhor desempenho, segurança e disponibilidade do Amazon Elastic Container Registry para imagens de contêiner que eles obtêm de registros públicos.
-
-### Amazon EC2 G5g com processadores AWS Graviton2 e GPUs NVIDIA T4G Tensor Core
-A disponibilidade geral de instâncias do Amazon EC2 G5g estende os benefícios de preço e desempenho do Graviton2 para cargas de trabalho baseadas em GPU, incluindo aplicativos gráficos e inferência de aprendizado de máquina.
 
 ### Karpenter - um autoescalador de cluster de alto desempenho e código aberto do Kubernetes
 O novo projeto de código aberto ajuda a melhorar a disponibilidade do aplicativo e a eficiência do cluster, lançando rapidamente recursos de computação do tamanho certo em resposta às mudanças nas cargas do aplicativo.
