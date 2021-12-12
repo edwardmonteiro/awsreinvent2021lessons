@@ -154,10 +154,11 @@ O novo Amazon CodeGuru Reviewer Secrets Detector é uma ferramenta automatizada 
 Amazon Inspector é um serviço usado por organizações de todos os tamanhos para automatizar a avaliação e o gerenciamento de segurança em escala. Este novo lançamento permite uma implantação sem atrito em escala, suporte para um conjunto expandido de tipos de recursos que precisam de avaliação e uma necessidade crítica de detectar e corrigir com rapidez.
 
 ## Quantum Technologies
+
 ### Braket Hybrid Jobs
 Com o novo Amazon Braket Hybrid Jobs, você pode evitar uma infraestrutura extensa e gerenciamento de software e executar seus algoritmos com segurança de forma rápida e previsível, com acesso prioritário sob demanda a QPUs.
 
-## What’s New: re:Invent Previews
+# What’s New: re:Invent Previews
 
 * AWS Cloud WAN (Preview)
 * AWS Amplify Studio (Preview)
