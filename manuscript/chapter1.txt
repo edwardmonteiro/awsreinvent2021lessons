@@ -7,3 +7,42 @@ A AWS anunciou alguns novos recursos e melhorias nos produtos , e deixou claro s
 
 Reconhecendo os mais de 200 serviços existentes, os designs de API às vezes confusos e a complexidade de um grande portfólio de produtos, Werner Vogels, CTO da Amazon, destacou lançamentos nas familias de  computação, banco de dados, armazenamento, rede, aprendizado de máquina e desenvolvimento.
 O CEO da AWS, Adam Selipsky, em seu Keynote ressaltou como a AWS está trabalhando para eliminar as barreiras da nuvem para usuários iniciantes e empresas por meio de ferramentas fáceis de usar e soluções específicas para cada industria e setor.
+
+# O que chamou atenção 
+
+## Em termos de poder de processamente o principal anúncio foi o chip Graviton3
+
+O processador ARM de próxima geração com a prévia das instâncias EC2 C7g  
+A prévia das instâncias M1 Mac foi anunciada,  construídos em computadores Apple M1 Mac mini para criar e testar aplicativos para iPhone e Mac.
+Além disso  AWS Outposts, agora estão disponíveis em diferentes formatos, de servidores outposts 1U e 2U a racks de 42U.
+Finalizando, Karpenter é um novo autoescalador de cluster de Opensource focado em AWS e deve substituir o autoescalador de cluster Kubernetes na maioria das implantações.
+
+## Falando de Databases e Analytics
+Uma parte significativa da palestra KEYNOTE do CEO  Selipsky foi sobre a importância dos serviços analíticos e como melhorar suas implantações usando Serverless: Redshift Serverless, EMR Serverless e MSK Serverless estão agora em Preview pública
+
+## No mundo de Networking e IoT
+Foi anunciada  AWS Private 5G, um serviço gerenciado para implantar uma rede 5G privada e conectar milhares de dispositivos
+AWS Cloud WAN , um serviço gerenciado para construir e monitorar redes globais que conectam recursos através da AWS e ambientes locais.
+AWS IoT RoboRunner é um serviço robótico que fornece uma infraestrutura para gerenciar robôs a partir de uma única visualização do sistema.
+
+## As maquinas que aprendem , Machine Learning
+A palestra de Swami Sivasubramanian foi focada em aprendizado de máquina, com novos serviços e recursos para o SageMaker.
+O SageMaker Studio Lab, um serviço gratuito para aprender e experimentar o aprendizado de máquina baseado no JupyterLab de código aberto.
+O SageMaker Inference Recommendation é um recurso do SageMaker Studio para automatizar o teste de carga, otimizar o desempenho do modelo e reduzir o tempo para obter os modelos do desenvolvimento à produção. 
+AWS afirma que o SageMaker Training Compiler pode acelerar o treinamento de modelos em até 50%.
+
+## Estamos de Olho, Monitoring and Security
+Os dois principais anúncios , CloudWatch  Real-User Monitoring (RUM), uma ferramenta para entender o desempenho e fornecer uma melhor experiência aos usuários finais. 
+AWS Evidently, a capacidade de introduzir experimentos  e testes A / B em aplicações
+A Amazon aprimorou o Inspector, um serviço que automatiza as avaliações de segurança, adicionando gerenciamento automático de vulnerabilidade.
+Novos recursos foram adicionados ao AWS Shield Advanced para criar, testar e implantar automaticamente regras AWS WAF e mitigar eventos DDoS da camada 7. O CodeGuru Reviewer Secrets Detector detecta senhas, tokens de acesso e chaves de API no código-fonte e arquivos de configuração.
+
+## Build & Run, Architecture and Coding
+AWS Migration Hub Refactor Spaces é um recurso do AWS Migration Hub para refatorar aplicativos existentes, geralmente com base em microsserviços. 
+O AWS Data Exchange para APIs permite que os clientes encontrem, assinem e usem  API de terceiros no AWS Data Exchange.
+Projetado para substituir os Fóruns da AWS e apelidado por muitos de AWS Stack OverFlow AWS re: Post é um serviço gerenciado de perguntas e respostas para respostas coletivas e revisadas por especialistas. 
+O AWS Amplify permite que os desenvolvedores criem aplicativos. Vogels anunciou o Amplify Studio para levar o processo um passo adiante, adicionando um construtor visual para todos os estágios do desenvolvimento.
+Um novo pilar de sustentabilidade foi adicionado ao AWS Well-Architected Framework para ajudar as empresas a aprender, medir e melhorar suas cargas de trabalho usando as melhores práticas ambientais
+A AWS decidiu se aprofundar no mundo do mainframe, anunciando o AWS Mainframe Modernization, um conjunto de ferramentas de migração que inclui a capacidade de converter código Cobol em Java.
+O Cloud Development Kit v2.0 já está disponível
+A Amazon Builders 'Library é um novo repositório de artigos que descrevem como a Amazon desenvolve, arquiteta e opera sua tecnologia.
