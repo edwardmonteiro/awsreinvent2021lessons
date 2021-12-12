@@ -69,7 +69,7 @@ AWS IoT RoboRunner é um serviço robótico que fornece uma infraestrutura para 
 ## As maquinas que aprendem , Machine Learning
 A palestra de Swami Sivasubramanian foi focada em aprendizado de máquina, com novos serviços e recursos para o SageMaker.
 O SageMaker Studio Lab, um serviço gratuito para aprender e experimentar o aprendizado de máquina baseado no JupyterLab de código aberto.
-O SageMaker Inference Recommendation é um recurso do SageMaker Studio para automatizar o teste de carga, otimizar o desempenho do modelo e reduzir o tempo para obter os modelos do desenvolvimento à produção. 
+O  SageMaker Inference Recommendation é um recurso do SageMaker Studio para automatizar o teste de carga, otimizar o desempenho do modelo e reduzir o tempo para obter os modelos do desenvolvimento à produção. 
 AWS afirma que o SageMaker Training Compiler pode acelerar o treinamento de modelos em até 50%.
 
 ## Estamos de Olho, Monitoring and Security
