@@ -1,176 +1,20 @@
-# Top Announcements of AWS re:Invent 2021 (From AWS WHATSNEW!!!!)
+# From Amazon CTO Werner Vogels ( Fetch https://techcrunch.com/2021/12/07/why-amazon-cto-werner-vogels-isnt-ready-to-retire-just-yet/)
 
-## Analytics
-
-### Redshift Serverless - execute análises em qualquer escala sem ter que gerenciar a infraestrutura
-Basta carregar seus dados e começar a consultar sem a necessidade de configurar e gerenciar clusters.
-
-### Kinesis Data Streams On-Demand - Transmita dados em escala sem gerenciar a capacidade
-Esse novo modo de capacidade elimina a necessidade de provisionar e gerenciar a capacidade de streaming de dados. O uso do Kinesis Data Streams On-demand dimensiona automaticamente a capacidade em resposta ao tráfego de dados variável.
-
-### Lake Formation - Disponibilidade Geral de Segurança em Nível de Célula e Tabelas Governadas com Compactação Automática
-A AWS Lake Formation facilita a configuração de um data lake seguro em dias, em vez de semanas ou meses; os recursos recém-lançados simplificam ainda mais o carregamento de dados, a otimização do armazenamento e o gerenciamento de acesso a um data lake.
-
-### Data Exchange para APIs: Encontre, assine e use APIs de terceiros com autenticação consistente
-O novo recurso simplifica a vida de desenvolvedores e administradores de TI que precisam integrar e proteger o acesso a várias APIs de terceiros.
-
-## Integração de aplicativos & Arquitetura
-
-### Notificações de eventos do Amazon S3 com Amazon EventBridge
-Tornando ainda mais fácil para  usar o EventBridge para construir aplicativos que reagem de forma rápida e eficiente às mudanças em seus objetos S3.
-
-### Pilar de sustentabilidade para uma estrutura bem arquitetada da AWS
-O pilar de sustentabilidade contém questões destinadas a avaliar o design, a arquitetura e a implementação de suas cargas de trabalho para reduzir o consumo de energia e melhorar sua eficiência.
-
-### WAF LENS : WELL ARQ Framework Personalizavel pelo cliente
-As lentes personalizadas fornecem uma visão consolidada e uma maneira consistente de medir e melhorar suas cargas de trabalho na AWS sem depender de planilhas externas ou sistemas de terceiros.
-
-## Inteligência Artificial / Aprendizado de Máquina
-Novo programa de bolsa de estudos da AWS ajuda alunos sub-representados e carentes a se prepararem para carreiras em IA e ML
-O programa AWS AI & ML Scholarship está sendo lançado como parte do novo serviço AWS DeepRacer Student e da Student League.
-
-### Preview Amazon SageMaker Studio Lab, um serviço gratuito para aprender e experimentar ML
-Estamos lançando um serviço gratuito que permite que qualquer pessoa aprenda e experimente ML sem precisar de uma conta AWS, cartão de crédito ou conhecimento de configuração de nuvem.
-
-### SageMaker Inference Recommendation
-Esse novo recurso do Amazon SageMaker Studio automatiza o teste de carga e otimiza o desempenho do modelo em instâncias de aprendizado de máquina (ML).
-
-### Compilador de Treinamento SageMaker
-O novo recurso compila automaticamente seu código de treinamento Python e gera kernels de GPU especificamente para seu modelo. O resultado? O código de treinamento usará menos memória e computação e treinará mais rápido.
-
-### Criar e gerenciar clusters EMR e trabalhos do Spark com Amazon SageMaker Studio
-Com a capacidade de se conectar e gerenciar clusters EMR de dentro do SageMaker Studio, os cientistas de dados não precisam mais deixar seu ambiente familiar para criar, configurar e provisionar os clusters EMR onde executam suas cargas de trabalho.
-
-### SageMaker Ground Truth Plus
-Ground Truth Plus é um serviço pronto para uso que usa uma força de trabalho especializada para fornecer conjuntos de dados de treinamento de alta qualidade rapidamente e reduz os custos em até 40 por cento.
-
-### DevOps Guru para RDS para detectar, diagnosticar e resolver problemas relacionados ao Amazon Aurora usando ML
-Agora, os desenvolvedores terão informações suficientes para determinar a causa exata de um problema de desempenho de banco de dados no Amazon Aurora, economizando muitas horas de trabalho tentando descobrir e remediar os problemas.
-
-### SageMaker Canvas - um recurso de aprendizado de máquina visual e sem código para analistas de negócios
-Agora, os analistas de negócios podem construir modelos de aprendizado de máquina e gerar previsões de negócios precisas sem escrever código ou exigir conhecimento de ML.
-
-### CodeGuru Reviewer apresenta o detector de Secrets para identificar Secrets HArdCoded  e protegê-los com o AWS Secrets Manager
-A nova ferramenta automatizada ajuda os desenvolvedores a detectar segredos no código-fonte ou arquivos de configuração, como senhas, chaves de API, chaves SSH e tokens de acesso.
-
-
-## Compute
-
-### EC2 M1 Mac para criar e testar aplicativos para iPhone, iPad, Mac, Apple Watch e Apple TV
-A disponibilidade (Preview) de instâncias EC2 M1 Mac permite acessar máquinas construídas em torno do M1 System on Chip projetado pela Apple. 
-
-### Amazon EC2 otimizadas para armazenamento (Im4gn e Is4gen) com processadores AWS Graviton2
-Apresentando as duas famílias mais novas de instâncias otimizadas para armazenamento, Im4gn e Is4gen, com processadores Graviton2. Ambas as instâncias oferecem até 30 TB de armazenamento NVMe usando dispositivos AWS Nitro SSD que são personalizados pela AWS.
-
-### AWS Outposts 
-Estamos lançando três servidores AWS Outposts, todos com o sistema AWS Nitro e com processadores x86 ou Arm / Graviton2 de sua escolha.
-
-### Instâncias Amazon EC2 C7g fornecidas por novos processadores AWS Graviton3
-Essas instâncias serão uma ótima combinação para suas cargas de trabalho de computação intensiva: HPC, processamento em lote, automação de design eletrônico (EDA), codificação de mídia, modelagem científica, veiculação de anúncios, análise distribuída e inferência de aprendizado de máquina baseada em CPU.
-
-### Instâncias Amazon EC2 M6a com processadores AMD EPYC de 3ª geração
-As instâncias do Amazon EC2 M6a apresentam os processadores AMD EPYC de 3ª geração, funcionando em frequências de até 3,6 GHz para oferecer desempenho de preço de até 35 por cento em comparação com as instâncias M5a da geração anterior.
-
-### Pull Through Cache Repositories para Amazon Elastic Container Registry
-Os repositórios de cache pull through oferecem aos desenvolvedores melhor desempenho, segurança e disponibilidade do Amazon Elastic Container Registry para imagens de contêiner que eles obtêm de registros públicos.
-
-### Amazon EC2 G5g com processadores AWS Graviton2 e GPUs NVIDIA T4G Tensor Core
-A disponibilidade geral de instâncias do Amazon EC2 G5g estende os benefícios de preço e desempenho do Graviton2 para cargas de trabalho baseadas em GPU, incluindo aplicativos gráficos e inferência de aprendizado de máquina.
-
-### Karpenter - um autoescalador de cluster de alto desempenho e código aberto do Kubernetes
-O novo projeto de código aberto ajuda a melhorar a disponibilidade do aplicativo e a eficiência do cluster, lançando rapidamente recursos de computação do tamanho certo em resposta às mudanças nas cargas do aplicativo.
-
-## Banco de Dados
-
-### DynamoDB - Economize até 60% nos custos do DynamoDB
-A classe de tabela DynamoDB Standard-IA foi projetada para clientes que desejam uma solução com custo otimizado para armazenar dados acessados ​​com pouca frequência no DynamoDB sem alterar nenhum código de aplicativo.
-
-### RDS personalizado para SQL Server 
-Este lançamento oferece suporte a aplicativos que dependem de configurações específicas e aplicativos de terceiros que exigem personalizações em sistemas corporativos, de e-commerce e de gerenciamento de conteúdo, como o Microsoft SharePoint.
-
-## Ferramentas de desenvolvimento
-
-### AWS re: Post - Uma experiência reimaginada de perguntas e respostas para a comunidade AWS
-AWS re: Post é um serviço de perguntas e respostas gerenciado pela AWS que oferece respostas coletivas e revisadas por especialistas às suas perguntas técnicas sobre a AWS, que substitui os Fóruns AWS originais.
-
-### Anunciando a disponibilidade geral do Construct Hub e AWS Cloud Development Kit versão 2 (CDK 2.0 )
-O AWS CDK é uma estrutura de código aberto que simplifica o trabalho com recursos de nuvem usando linguagens de programação familiares: C #, TypeScript, Java, Python e Go (na visualização do desenvolvedor).
-
-## Ferramentas de gerenciamento
-
-### AWS Control Tower - Negação de região e grades para ajudá-lo a atender aos requisitos de residência de dados
-Os controles preventivos e de detecção evitarão o provisionamento de recursos em regiões indesejadas da AWS, restringindo o acesso às APIs da AWS por meio de políticas de controle de serviço (SCPs) criadas e gerenciadas pela AWS Control Tower.
-
-### AWS Control Tower Account Factory para Terraform
-AFT é um novo módulo do Terraform mantido pela equipe da AWS Control Tower que permite provisionar e personalizar contas da AWS por meio do Terraform usando um pipeline de implantação.
-
-### AWS Compute Optimizer - Métricas de eficiência de recursos para estimar oportunidades de economia e riscos de desempenho
-Ao aplicar o conhecimento obtido da experiência da Amazon executando diversas cargas de trabalho na nuvem, o AWS Compute Optimizer identifica os padrões de carga de trabalho e recomenda os recursos ideais da AWS. Agora, ele também fornece métricas de eficiência de recursos junto com suas recomendações para ajudá-lo a avaliar a eficiência com que você está usando os recursos da AWS.
-
-### AWS Compute Optimizer - Métricas de infraestrutura aprimoradas para estender o período de lookback para três meses
-O AWS Compute Optimizer agora também oferece suporte a preferências de recomendação, nas quais você pode ativar ou desativar recursos que aprimoram as recomendações específicas de recursos.
-
-### Monitoramento de usuário real para Amazon CloudWatch
-O Amazon CloudWatch ajuda você a criar aplicativos da web altamente escalonáveis ​​e disponíveis. O grande desafio que estamos enfrentando hoje é monitorar esses aplicativos com o objetivo de compreender o desempenho e fornecer uma experiência ideal para seus usuários finais.
-
-### CloudWatch Evidently - Experimentos e gerenciamento de recursos
-Esse novo recurso do Amazon CloudWatch torna mais fácil para os desenvolvedores introduzir experimentos e gerenciamento de recursos em seu código de aplicativo. O CloudWatch Evidently pode ser usado para dois casos de uso semelhantes, mas distintos: implementação de dark launchs, também conhecidos como sinalizadores de recursos, e testes A / B.
-
-## Mensageria
-
-### Amazon Connect com tecnologia de aprendizado de máquina, agora com resumo de chamadas
-O Amazon Connect adiciona um novo recurso que ajuda a melhorar a experiência do cliente e a produtividade do agente e do supervisor, resumindo automaticamente os aspectos importantes de cada chamada do cliente.
-
-### Experiência aprimorada de gerenciamento de fila de espera para filas padrão do Amazon SQS
-A nova funcionalidade ajuda você a se concentrar na fase importante de seu fluxo de trabalho de tratamento de erros, que consiste em identificar e resolver erros de processamento.
-
-## Serviços de migração e transferência
-
-### AWS Migration Hub Refactor Spaces ajuda a refatorar incrementalmente seus aplicativos
-Um novo recurso do AWS Migration Hub permite refatorar os aplicativos existentes em aplicativos distribuídos, normalmente baseados em microsserviços.
-
-## Rede e distribuição de conteúdo
-
-### Conectividade site a site com AWS Direct Connect SiteLink
-Você não precisa mais se conectar por meio da região AWS mais próxima e gerenciar e configurar um AWS Transit Gateway para conectividade de rede local a local.
-
-### VPC Network Access Analyzer
-Em contraste com a verificação manual das configurações de rede, que é sujeita a erros e difícil de escalar, esta ferramenta permite que você analise suas redes AWS de qualquer tamanho e complexidade.
-
-## Robótica
-
-### IoT RoboRunner para criar aplicativos de gerenciamento de frota de robôs
-O AWS IoT RoboRunner é um novo serviço de robótica que torna mais fácil para as empresas criar e implantar aplicativos que ajudam as frotas de robôs a trabalharem perfeitamente em conjunto.
-
-## Segurança
-
-### Atualização avançada do AWS Shield - Mitigação automática de DDoS de camada de aplicativo
-O novo recurso cria, testa e implanta regras AWS WAF para mitigar eventos DDoS da camada 7 em nome dos clientes.
-
-### CodeGuru Reviewer apresenta o detector de segredos para identificar segredos codificados permanentemente e protegê-los com o AWS Secrets Manager
-O novo Amazon CodeGuru Reviewer Secrets Detector é uma ferramenta automatizada que ajuda os desenvolvedores a detectar segredos no código-fonte ou arquivos de configuração, como senhas, chaves de API, chaves SSH e tokens de acesso.
-
-### Gerenciamento de vulnerabilidade aprimorado e automatizado para cargas de trabalho em nuvem com um novo Amazon Inspector
-Amazon Inspector é um serviço usado por organizações de todos os tamanhos para automatizar a avaliação e o gerenciamento de segurança em escala. Este novo lançamento permite uma implantação sem atrito em escala, suporte para um conjunto expandido de tipos de recursos que precisam de avaliação e uma necessidade crítica de detectar e corrigir com rapidez.
-
-## Quantum Technologies
-### Braket Hybrid Jobs
-Com o novo Amazon Braket Hybrid Jobs, você pode evitar uma infraestrutura extensa e gerenciamento de software e executar seus algoritmos com segurança de forma rápida e previsível, com acesso prioritário sob demanda a QPUs.
-
-## What’s New: re:Invent Previews
-
-* AWS Cloud WAN (Preview)
-* AWS Amplify Studio (Preview)
-* Amazon Lex Automated Chatbot Designer (Preview)
-* Amazon SageMaker Serverless Inference (Preview)
-* AWS DMS Fleet Advisor for automated discovery and analysis of database and analytics workloads (Preview)
-* AWS IoT TwinMaker, a Service That Makes it Easier to Build Digital Twins (Preview)
-* AWS IoT FleetWise, a New Service for Transferring Vehicle Data to the Cloud More Efficiently (Preview)
-* Amazon EMR Serverless (Preview)
-* Amazon MSK Serverless (Preview)
-* AWS Mainframe Modernization (Preview)
-* Amazon EC2 Trn1 Instances (Preview)
-* AWS Private 5G (Preview)
-* AWS Chatbot now supports management of AWS resources in Slack (Preview)
-* AWS Migration Hub Refactor Spaces (Preview)
-* Amazon CloudWatch Metrics Insights (Preview)
+During his keynote, Vogels noted how AWS now has hundreds of different services. Jokingly, he blamed the company’s customers for that, who keep asking for more. But that’s also becoming a real problem, as it gets harder and harder for businesses to decide which service to use. AWS, Vogels noted, believes in building primitives, not frameworks. “But also, I think we have the chance — and we’ve seen this in the past years — to build more solutions, to build more packaged things for our customers. There is a certain very large builder’s side of AWS that still likes the tweaking and putting things together and things like that, but there’s also a significant portion of our customers that just want a data lake,” he said. And some of those are the internal customers at AWS that take these primitives like AWS Glue, the company’s managed serverless data integration service, to build other solutions (and the feedback cycle from these internal teams, of course, is very fast).
+Almost by default, for every service, there’s a long list of new features that users want — and then there’s the development team’s roadmap. Often, Vogels noted, AWS changes that roadmap based on how customers are using a service. With DynamoDB, AWS’s NoSQL key-value database, the team knew customers would want secondary indices. “But we decided to launch without, mostly to understand exactly how customers would start to use these databases. It was already on our roadmap, but customers actually wanted cell- and row-level security much more than secondary indices, so you allow your customers to change your roadmap and I think that’s just a healthier approach,” explained Vogels.
+Another kind of customer, Vogels explained, is large, traditional enterprises that are still trying to figure out not just the technological part of moving to the cloud but also everything else around that. How do you build the organizational structure around that. That’s where AWS’s partner network comes in, but more and more, they are also asking AWS for help with these cultural changes directly.
+Five years ago, the main drivers for migrating to the cloud were about developer productivity and moving beyond owning hardware. “These days, the number one [reason] is security,” Vogels noted. “Many organizations — and definitely the larger enterprises — start to realize they cannot protect themselves. They cannot make these kinds of investments, but AWS can make them for them. And as such, it becomes a major driver for transitioning in the cloud.”
+That’s quite a difference from only a few years ago, when enterprises still worried quite a bit about security in the cloud and often saw it as a potential hurdle to migrating. Vogels believes that was mostly FUD. “Well, you know, there is just this thing called FUD — fear, uncertainty and doubt — a marketing approach put into the world by your competitors who prefer to actually spread lies and introduce fear and uncertainty in the story instead of working on building better products. I think a very significant portion of this is that all standard IT companies were, ‘really you’re going to buy servers from a bookshop? How crazy can you be? Well, it turns out everybody wants servers from a bookshop. People didn’t realize that Amazon had been a technology company from day one.”
+Vogels himself, he said, had a very primitive view of AWS before he joined the company. When the company first invited him to give a talk while he was still an academic, he wasn’t quite sure what to make of Amazon. And indeed, he noted that hiring engineers was actually one of the biggest challenges in the early days of the service. “One glimpse at the kitchen, however, and I realized that anything that was in the distributed systems textbook was happening at Amazon — but at scale, and at a scale that I had never seen before.”
+For security in the cloud, people had the same misunderstandings in the early days. And while there’s the genuine kind of misunderstanding that Vogels himself had about the scale of Amazon, he noted that there’s a second kind, too. “There is the mischievous misunderstanding of your competitors,” he said. “I remember one of our competitors who is now a really good partner, in those days, they actually had sales meetings and they said, ‘who would ever want to buy servers from Amazon? It’s ridiculous. Don’t worry about it.’ Things are different now.”
+When you talk to large enterprise CIOs, CTOs and other decision-makers, they often talk about wanting to be multi-cloud in order to get the best of what the various hyper clouds have to offer. All of the major cloud vendors, including AWS, now offer one kind of service or another to enable this, using their technology to run and manage containers and services on their competitors’ clouds. In reality, I’m not seeing a lot of companies actually doing this, though, and more and more, I hear companies say that this just locks them into the lowest common denominator. That’s something Vogels also echoed.
+“If I would be a CIO of a large enterprise, I would indeed tell my people: ‘go, take a look at all of them.’ The customers I talk to, if they are really interested in multi-cloud, start looking at what are the unique capabilities of a particular cloud that you may want to use. Don’t tell your developers to transparently work over three or four more clouds. Why? Because they go to the lowest common denominator. That means that you’re going to use clouds as a data center, which means you lose all the advantages that you get.”
+He argued that customers, just like they would when evaluating any other service, want to have an exit strategy. In practice, that may mean going with a single cloud provider, but architecting a system that would make it easier to move to another cloud if that ever becomes necessary.
+For a lot of companies, migrating to the cloud still means lifting and shifting their existing services. Increasingly, though, it also means they can start to look at new development patterns. During his keynote, Vogels put a special emphasis on using serverless patterns, and indeed, he thinks that it should be something of the default going forward. “If you’re building from scratch, then yes,” he said when I asked him about this. But he also noted that there are, in essence, three different compute platforms today: instances, containers and serverless. Your SAP system, you’ll likely move to a specialized instance on EC2. Your homegrown tools that you can decompose into smaller blocks would make a good candidate for containers and Kubernetes. And then, for completely new services, serverless would be a good candidate.
+“Interesting enough, I always thought when we launched [AWS’ serverless platform] Lambda, I thought that the young entrepreneurs, the digital guys will be hung-ho over it. It turns out, the biggest users of Lambda became enterprises,” Vogel noted and argued that this is likely because serverless gives them more control over their cost. 
+He also noted that there is a sustainability argument to be made for serverless, which doesn’t consume any resources while a service is idle. AWS made sustainability the sixth pillar of its well-architected framework last week, as Vogels announced during his keynote. AWS believes in a shared responsibility model for cloud sustainability, with the company planning to run its operations on 100% renewable energy by 2025. But at the same time, it’s also up to the users to figure out how to most efficiently use the cloud, too.
+“I try to motivate my customers to start thinking about what they could do and not only think about technology, but what if you have, maybe a website that’s just a little bit less rich? Maybe your images are not five megabytes but maybe just 500K. All these kinds of things. So, become aware of the kinds of things that you are doing in your application design, or your website design, that actually may just use less resources,” he said. In a way, that’s against how engineers are trained to think, but Vogels argues that’s it’s a question of what you optimize for. Maybe a bit of extra latency reduces conversion rates, but it does help you meet your sustainability goals.
+“Two or three years down the road, we’ll see many more development practices happening around that and, of course, tools to measure, because you need to know what you are doing,” he said. “But he also noted that it’ll be up to the customers to decide what they want to optimize for: “I’m not going to tell my customers what they should be doing, because I believe that there should be no gatekeepers. People should be able to innovate in any way that they would want to, but they need to become conscious to themselves.”
+Looking ahead, one of those technologies that keeps Vogels energized is quantum computing. Earlier this year, AWS announced that it would start building its own quantum hardware, with a bet on superconducting qubits. As of now, the company is partnering with a number of major quantum players, including IonQ, Rigetti and D-Wave, in making their hardware and services available through its Braket service. But clearly, just like Google and Microsoft, AWS believes in building its own quantum hardware, too, just like it does for classical chips.
+“I think it’s one of those areas where hardware and software are working lockstep with each other. Improvements in hardware beget improvements in software, software improvements drive the hardware to different improvements. I think, for example, the software tools in and around quantum are nowhere near the software tools we have for classical computation, but for that, we need to start building applications. And so, with Amazon Braket our customers can start investigating. What kind of algorithms [do you use]? How do you do software development for that? How do you track that? How do you do operations around that. All these kinds of things. There is so much more to figure out there that will have an impact on the hardware as well. I’m really looking forward to seeing where we are three years from now.”
+And so chances are, barring another global lockdown, we’ll see Vogels take the stage on the last day of re:Invent 2024 and talk about AWS’ latest improvements to its quantum computer and how the developers in the audience can make the best possible use of that.
