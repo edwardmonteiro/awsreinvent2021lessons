@@ -1,12 +1,16 @@
 # Top Announcements of AWS re:Invent 2021 
 
 ## Analytics
+
 ### Redshift Serverless - execute análises em qualquer escala sem ter que gerenciar a infraestrutura
 Basta carregar seus dados e começar a consultar sem a necessidade de configurar e gerenciar clusters.
+
 ### Kinesis Data Streams On-Demand - Transmita dados em escala sem gerenciar a capacidade
 Esse novo modo de capacidade elimina a necessidade de provisionar e gerenciar a capacidade de streaming de dados. O uso do Kinesis Data Streams On-demand dimensiona automaticamente a capacidade em resposta ao tráfego de dados variável.
+
 ### Lake Formation - Disponibilidade Geral de Segurança em Nível de Célula e Tabelas Governadas com Compactação Automática
 A AWS Lake Formation facilita a configuração de um data lake seguro em dias, em vez de semanas ou meses; os recursos recém-lançados simplificam ainda mais o carregamento de dados, a otimização do armazenamento e o gerenciamento de acesso a um data lake.
+
 ### Data Exchange para APIs: Encontre, assine e use APIs de terceiros com autenticação consistente
 O novo recurso simplifica a vida de desenvolvedores e administradores de TI que precisam integrar e proteger o acesso a várias APIs de terceiros.
 
