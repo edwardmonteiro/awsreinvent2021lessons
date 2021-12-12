@@ -8,6 +8,15 @@ A AWS anunciou alguns novos recursos e melhorias nos produtos , e deixou claro s
 Reconhecendo os mais de 200 serviços existentes, os designs de API às vezes confusos e a complexidade de um grande portfólio de produtos, Werner Vogels, CTO da Amazon, destacou lançamentos nas familias de  computação, banco de dados, armazenamento, rede, aprendizado de máquina e desenvolvimento.
 O CEO da AWS, Adam Selipsky, em seu Keynote ressaltou como a AWS está trabalhando para eliminar as barreiras da nuvem para usuários iniciantes e empresas por meio de ferramentas fáceis de usar e soluções específicas para cada industria e setor.
 
+# Resumo rapido
+
+* aaaaa
+* aaaasss
+* ddddddddddd
+* ddddddddd
+* fffffffff
+* fffffffffff
+
 # O que chamou atenção 
 
 ## Em termos de poder de processamente o principal anúncio foi o chip Graviton3
