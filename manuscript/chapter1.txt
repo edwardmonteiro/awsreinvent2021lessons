@@ -1,3 +1,3 @@
-# Capitulo Um
+# AWS re: Invent 2021 foi mais incremental do que inovador
 
-TESTE Capitulo Um
+A AWS não preencheu o re: Invent 2021 com anúncios de novos produtos. Em vez disso, a AWS parece estar tentando ajudar os clientes a fazer melhor uso do que já possuem.
