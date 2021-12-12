@@ -9,44 +9,45 @@ O CEO da AWS, Adam Selipsky, em seu Keynote ressaltou como a AWS está trabalhan
 Ele também destacou:
 
 * AWS Lake Formation
-** AWS Lake Formation oferece suporte a tabelas administradas, otimização de armazenamento e segurança em nível de linha
+AWS Lake Formation oferece suporte a tabelas administradas, otimização de armazenamento e segurança em nível de linha
 * Amazon EC2
-** Anúncio de novas instâncias do Amazon EC2 C7g com a tecnologia de processadores AWS Graviton3
+Anúncio de novas instâncias do Amazon EC2 C7g com a tecnologia de processadores AWS Graviton3
 * AWS Private 5G
-** Anúncio da versão de demonstração do AWS Private 5G
+Anúncio da versão de demonstração do AWS Private 5G
 * AWS IoT TwinMaker
-** Anúncio do AWS IoT TwinMaker (versão de demonstração), um serviço que facilita a criação de gêmeos digitais
+Anúncio do AWS IoT TwinMaker (versão de demonstração), um serviço que facilita a criação de gêmeos digitais
 * AWS Mainframe Modernization
-** Apresentação do AWS Mainframe Modernization
+Apresentação do AWS Mainframe Modernization
 * Amazon Redshift Serverless
-** Anúncio do Amazon Redshift Serverless (versão de demonstração)
+Anúncio do Amazon Redshift Serverless (versão de demonstração)
 
 Outro Keynote relevante foi do Swami Sivasubramanian - VP, Amazon AI, que  trouxe os seguintes destaques:
 
 * AWS DeepRacer
-** AWS DeepRacer anuncia a temporada de 2022 da DeepRacer League
+AWS DeepRacer anuncia a temporada de 2022 da DeepRacer League
 * Programa de bolsa de estudos para IA e ML da AWS
-** AWS anuncia o programa de bolsa de estudos para IA e ML da AWS em colaboração com Intel e Udacity a fim de promover a diversificação no futuro do quadro de funcionários nessas áreas
+AWS anuncia o programa de bolsa de estudos para IA e ML da AWS em colaboração com Intel e Udacity a fim de promover a diversificação no futuro do quadro de funcionários nessas áreas
 * Amazon DevOps Guru for RDS
-** Amazon DevOps Guru for RDS, uma capacidade habilitada por machine learning que detecta e diagnostica automaticamente problemas operacionais e de performance no Amazon Aurora
+Amazon DevOps Guru for RDS, uma capacidade habilitada por machine learning que detecta e diagnostica automaticamente problemas operacionais e de performance no Amazon Aurora
 
 E obviamente o mais aguardado Keynote Werner Vogels apresentou os destaques a seguir:
 
 * AWS Amplify Studio
-** Apresentação do AWS Amplify Studio
+Apresentação do AWS Amplify Studio
 * Construct Hub e CDK
-** AWS anuncia a disponibilização do Construct Hub ao público
+AWS anuncia a disponibilização do Construct Hub ao público
 * AWS Well-Architected Framework
-** Novo pilar de sustentabilidade para o AWS Well-Architected Framework
+Novo pilar de sustentabilidade para o AWS Well-Architected Framework
+
 
 * AWS CDK
-** O AWS Cloud Development Kit (AWS CDK) v2 já está disponível ao público
+O AWS Cloud Development Kit (AWS CDK) v2 já está disponível ao público
 * AWS SDK for Swift
-** AWS SDK for Swift (previsualização para desenvolvedores)
+AWS SDK for Swift (previsualização para desenvolvedores)
 * AWS SDK for Rust
-** AWS SDK for Rust (previsualização para desenvolvedores)
+AWS SDK for Rust (previsualização para desenvolvedores)
 * AWS SDK for Kotlin
-** AWS SDK for Kotlin (previsualização para desenvolvedores)
+AWS SDK for Kotlin (previsualização para desenvolvedores)
 
 # O que chamou atenção 
 
