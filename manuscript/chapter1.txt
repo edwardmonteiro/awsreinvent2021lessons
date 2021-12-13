@@ -1,23 +1,23 @@
-# AWS re: Invent 2021 foi mais incremental do que inovador
+# AWS re: Invent foi mais incremental do que inovador
 
-A AWS não bombardeou o mercado no re:Invent 2021 com anúncios de novos produtos. Em vez disso, aparenta tentar ajudar os clientes a fazer melhor uso dos recursos já existentes.
+A AWS **não bombardeou** o mercado no re:Invent 2021 com anúncios de novos produtos. Em vez disso, aparenta tentar ajudar os clientes a fazer melhor uso dos recursos já existentes.
 Depois de uma edição  virtual em 2020, o evento ocorreu novamente em Las Vegas com menos participantes, foi a primeira participação do novo CEO Adam Selipsky. 
-A AWS anunciou alguns novos recursos e deixou claro seu foco em melhorar a experiencia de uso dos seus produtos existentes.
+A AWS anunciou alguns novos recursos e deixou claro seu **foco em melhorar a experiencia de uso dos seus produtos**.
 
-Reconhecendo os mais de 200 serviços existentes como muitas vezes complexos , os designs de API em alguns casos confusos e a realidade de um grande portfólio, Werner Vogels, CTO da Amazon, destacou lançamentos nas familias de  computação, banco de dados, armazenamento, rede, aprendizado de máquina e ferramentas para o desenvolvedor.
+Reconhecendo os mais de 200 serviços **como muitas vezes complexos** , os designs de **API em alguns casos confusos** e a realidade de um grande portfólio, Werner Vogels, CTO da Amazon, destacou lançamentos nas familias de  computação, banco de dados, armazenamento, rede, aprendizado de máquina e ferramentas para o desenvolvedor.
 O CEO da AWS, Adam Selipsky, em seu Keynote ressaltou como a AWS está trabalhando para eliminar as barreiras da nuvem para usuários iniciantes e empresas por meio de ferramentas fáceis de usar e soluções específicas para cada industria e setor. 
 Durante seu Keynote ele destacou produtos como:
 
 * AWS Lake Formation
-AWS Lake Formation oferece suporte a tabelas administradas e segurança em nível de linha
+AWS Lake Formation oferece suporte a tabelas administradas e **segurança em nível de linha**
 * Amazon EC2
 Instâncias do Amazon EC2 C7g com a tecnologia de processadores AWS Graviton3
 * AWS Private 5G
-Versão de demonstração do AWS Private 5G
+Versão de demonstração do **AWS Private 5G**
 * AWS IoT TwinMaker
 AWS IoT TwinMaker (versão de demonstração)
 * AWS Mainframe Modernization
-Apresentação do AWS Mainframe Modernization Framework e Tools
+Apresentação do AWS **Mainframe Modernization** Framework e Tools
 * Amazon Redshift Serverless
 Anúncio do Amazon Redshift Serverless
 
@@ -26,19 +26,19 @@ Outro Keynote relevante foi Swami Sivasubramanian - VP, Amazon AI, que  trouxe o
 * Programa de bolsa de estudos para IA e ML da AWS
 Bolsa de estudos para IA e ML da AWS em colaboração com Intel e Udacity 
 * Amazon DevOps Guru for RDS
-Amazon DevOps Guru for RDS, uma capacidade habilitada por machine learning que detecta e diagnostica automaticamente problemas
+Amazon DevOps Guru for RDS, uma capacidade habilitada por machine learning que **detecta e diagnostica automaticamente problemas**
 
 E obviamente o mais aguardado, o Keynote do CTO Werner Vogels apresentou os destaques a seguir:
 
 * AWS Amplify Studio
-Apresentação do AWS Amplify Studio ( Com ingração Nativa para FIgma designs)
+Apresentação do AWS Amplify Studio ( **Com ingração Nativa para FIgma designs**)
 * Construct Hub e CDK
 AWS anuncia a disponibilização do Construct Hub ao público
 * AWS Well-Architected Framework
 Novo pilar de sustentabilidade para o AWS Well-Architected Framework
 
 * AWS CDK
-O AWS Cloud Development Kit (AWS CDK) v2 já está disponível ao público
+**O AWS Cloud Development Kit (AWS CDK) v2 já está disponível ao público**
 * AWS SDK for Swift
 AWS SDK for Swift (previsualização para desenvolvedores)
 * AWS SDK for Rust
