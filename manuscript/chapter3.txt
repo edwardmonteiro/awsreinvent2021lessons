@@ -164,5 +164,6 @@ Com o novo Amazon Braket Hybrid Jobs, você pode evitar uma infraestrutura exten
 * AWS Migration Hub Refactor Spaces (Preview)
 * Amazon CloudWatch Metrics Insights (Preview)
 
-##Todos os anuncios
-https://aws.amazon.com/pt/blogs/aws/
+## Todos os anuncios
+
+[WHATSNEW](https://aws.amazon.com/pt/blogs/aws/)

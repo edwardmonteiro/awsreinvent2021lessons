@@ -1,5 +1,8 @@
 # AWS re: Invent foi mais incremental do que inovador
 
+[Edward Monteiro](https://github.com/edwardmonteiro/awsreinvent2021lessons/tree/master/manuscript).
+
+
 A AWS **não bombardeou** o mercado no re:Invent 2021 com anúncios de novos produtos. Em vez disso, aparenta tentar ajudar os clientes a fazer melhor uso dos recursos já existentes.
 Depois de uma edição  virtual em 2020, o evento ocorreu novamente em Las Vegas com menos participantes, foi a primeira participação do novo CEO Adam Selipsky. 
 A AWS anunciou alguns novos recursos e deixou claro seu **foco em melhorar a experiencia de uso dos seus produtos**.
